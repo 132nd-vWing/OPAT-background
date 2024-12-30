@@ -1,0 +1,8 @@
+- In order to create target folders, it need to have coordinates for each DPI (desired point of impact). 
+- TLE CAT1 / TLE CAT2 for GPS/INS guided bombs that can be launched without seeing the target
+- For targets that are mobile/can shift around, this need to be adressed so that each target need to be verified  (This can also be to verify that no civilians are around, etc)
+- The goal is to have a variety of targets that gives a lot of various options/gameplay during the campaign
+- Some targets can be large,w ith multiple DPIs, while others are smaller and only need one bomb
+
+- Use OPAC tgt effects brief, to select buildings to be targeted, and make sure that weaponeering for each target is in line with something that actually destroyes the structure.
+- If the target structure are not in the OPAC tgt effects brief, make sure to test prior to set weapon needed (and add it to the OPAC tgt effects brief)
