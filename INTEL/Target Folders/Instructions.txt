@@ -6,3 +6,5 @@
 
 - Use OPAC tgt effects brief, to select buildings to be targeted, and make sure that weaponeering for each target is in line with something that actually destroyes the structure.
 - If the target structure are not in the OPAC tgt effects brief, make sure to test prior to set weapon needed (and add it to the OPAC tgt effects brief)
+- Effect of destruction or significance of taregt should be stated in "Notias as candidate for air attack" (and could be copied in to the target folder for pilots SA)
+- Collateral damage / civilian infrastructure around the target/target area can also be taken into account, and certain FAH can be given, or lowest possible use of munition (but still have effect on target), can be used (delayed fuzing)
