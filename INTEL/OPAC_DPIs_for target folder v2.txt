@@ -1,4 +1,4 @@
-N 69 22.776 E 030 40.495,@Bomb
+N 06 00.000 E 009 00.000,@Bomb
 N 68 49.958 E 032 46.501,Chemicals
 N 67 11.232 E 032 22.008,DRKTGT003 - 81st  Guards Armored Division (Strategic reserve)
 N 67 04.909 E 032 17.917,DRKTGT004 - Fuel and Gas Storage
@@ -10,7 +10,7 @@ N 68 09.130 E 033 27.880,SRNTGT004 - Olenya Airbase
 N 67 59.364 E 033 01.157,SRNTGT005 - Monchegorsk
 N 69 15.598 E 033 19.651,SRNTGT006  - Gadzniyevo dock
 N 69 12.853 E 033 17.322,SRNTGT007  - Snezhnogorsk dock
-N 68 58.714 E 033 04.005,SRNTGT010 - Murmansk docks
+N 68 58.803 E 033 03.597,SRNTGT010 - Murmansk docks
 N 68 51.316 E 033 00.870,SRNTGT011 - Notia Army HQ building
 N 68 51.306 E 033 00.897,SRNTGT011 -A: Building 1: Current operations
 N 68 51.311 E 033 00.847,SRNTGT011 -B: Building 2: Long term plans
@@ -68,10 +68,7 @@ N 67 34.519 E 033 26.247,SRNTGT021 -D: Processing plant
 N 67 34.509 E 033 26.226,SRNTGT021 -E: Processing plant
 N 68 04.492 E 039 27.612,SRNTGT022 - Ostrovnoy Navy Station
 N 68 03.689 E 039 27.366,SRNTGT023 - Ostrovnoy Naval HQ Building
-N 68 03.215 E 039 30.541,SRNTGT024 - Ostrovnoy Munitions Factory
-N 68 01.200 E 035 00.325,SRNTGT025 - Lovozero Air Defence Control
-N 68 00.803 E 035 03.319,SRNTGT026 - Lovozero Air Defence Academy
-N 67 39.173 E 034 07.564,SRNTGT027 - Kirovski Pits
+N 68 03.241 E 039 30.917,SRNTGT024 - Ostrovnoy Munitions Factory
 N 67 32.941 E 033 42.895,SRNTGT028 - Apatity Powerplant 1
 N 67 32.927 E 033 42.894,SRNTGT028 -A: Fuel for powerplant
 N 67 32.915 E 033 42.818,SRNTGT028 -B: Fuel for powerplant
@@ -347,3 +344,26 @@ N 68 51.483 E 033 40.346,SRNTGT002 -N:Ammo storage
 N 68 51.412 E 033 40.367,SRNTGT002 -L: Ammo storage
 N 68 51.439 E 033 40.629,SRNTGT002 -K: Ammo storage
 N 68 51.454 E 033 40.695,SRNTGT002 -J: Ammo storage
+N 68 01.259 E 034 59.877,SRNTGT025 - Lovozero Air Defense Test and Training Range
+N 68 00.439 E 035 00.646,SRNTGT026 - Lovozero Air Defense Academy
+N 67 29.532 E 034 18.662,SRNTGT027 - Koashva Research Facility
+N 69 12.969 E 033 21.981,SRNTGT008 - Olenya Guba dock
+N 69 12.169 E 033 27.490,SRNTGT009 - Polyarny Naval Base
+N 68 58.678 E 033 02.971,SRNTGT010 -A: Container crane
+N 68 59.386 E 033 03.321,SRNTGT010 -B: Container Crane
+N 68 58.633 E 033 04.076,SRNTGT010 -C: Railwayconnection
+N 68 59.043 E 033 04.257,SRNTGT010 -E: Railway connection
+N 68 58.697 E 033 04.297,SRNTGT010 -D: Railway connection
+N 68 03.242 E 039 30.892,SRNTGT024 -A: Production facility
+N 68 03.258 E 039 30.815,SRNTGT024 -B: Production facility
+N 68 03.272 E 039 30.901,SRNTGT024 -C: Power for production facilities (generators)
+N 68 03.179 E 039 30.947,SRNTGT024 -D: Research and development building
+N 68 03.224 E 039 30.886,SRNTGT024 -E: Chemicals for production
+N 68 03.209 E 039 30.859,SRNTGT024 -F: Chemicals for production
+N 68 00.468 E 035 00.682,SRNTGT026 -1
+N 68 00.450 E 035 00.738,SRNTGT026 -2
+N 68 00.421 E 035 00.606,SRNTGT026 -3
+N 68 00.425 E 035 00.562,SRNTGT026 -4
+N 68 01.343 E 035 00.611,SRNTGT025 -A: Command Center bunker
+N 67 29.547 E 034 18.820,SRNTGT027 -A: Entrance to underground facility
+N 67 29.555 E 034 18.513,SRNTGT027 -B: Entrance to underground facility
