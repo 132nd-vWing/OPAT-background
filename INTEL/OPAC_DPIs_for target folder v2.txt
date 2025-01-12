@@ -1,0 +1,472 @@
+N 06 00.000 E 009 00.000,@Bomb
+N 68 49.958 E 032 46.501,Chemicals
+N 67 11.232 E 032 22.008,DRKTGT003 - 81st  Guards Armored Division (Strategic reserve)
+N 67 04.909 E 032 17.917,DRKTGT004 - Fuel and Gas Storage
+N 67 10.238 E 032 23.660,DRKTGT005 - Railway Maintenance Depot
+N 69 01.831 E 033 25.383,SRNTGT001 - Severomorsk 1
+N 68 52.015 E 033 43.088,SRNTGT002 -Severomorsk 3
+N 68 46.971 E 032 44.954,SRNTGT003 - Murmansk International
+N 68 09.130 E 033 27.880,SRNTGT004 - Olenya Airbase
+N 67 59.364 E 033 01.157,SRNTGT005 - Monchegorsk
+N 69 15.598 E 033 19.651,SRNTGT006  - Gadzniyevo dock
+N 69 12.853 E 033 17.322,SRNTGT007  - Snezhnogorsk dock
+N 68 58.803 E 033 03.597,SRNTGT010 - Murmansk docks
+N 68 51.316 E 033 00.870,SRNTGT011 - Notia Army HQ building
+N 68 51.306 E 033 00.897,SRNTGT011 -A: Building 1: Current operations
+N 68 51.311 E 033 00.847,SRNTGT011 -B: Building 2: Long term plans
+N 68 57.760 E 033 05.283,SRNTGT012 - National Party Headquarter
+N 68 57.749 E 033 05.290,SRNTGT012 -A: President residence
+N 68 57.762 E 033 05.258,SRNTGT012 -B: Administration
+N 68 57.774 E 033 04.003,SRNTGT013 - Ministry of Foreign Affairs
+N 68 57.779 E 033 04.045,SRNTGT013 -A: Handles DUSS alliance
+N 68 57.760 E 033 03.972,SRNTGT013 -B; Handles other external relations
+N 68 57.183 E 033 03.449,SRNTGT014 - Ministry of Internal Affairs
+N 68 09.529 E 033 11.712,SRNTGT015 - Olenogorsk Uranium Enrichment Facility
+N 68 09.532 E 033 11.673,SRNTGT015 -A: Centrifuge hall 1
+N 68 09.519 E 033 11.633,SRNTGT015 -B: Centrifuge hall 2
+N 68 09.515 E 033 11.764,SRNTGT015 -C: Power to Centrifuge hall 1
+N 68 09.505 E 033 11.746,SRNTGT015 -D: Power to centrifuge hall 2
+N 68 09.564 E 033 11.726,SRNTGT015 -E: Research facility
+N 67 34.035 E 030 27.793,SRNTGT016 - Kovdor research facility
+N 67 34.043 E 030 28.046,SRNTGT016 -A: Laboratory 1
+N 67 34.051 E 030 27.785,SRNTGT016 -C: Power to laboratory 1
+N 67 34.044 E 030 27.634,SRNTGT016 -D: Laboratory 2
+N 67 34.058 E 030 27.754,SRNTGT016 -D: Power to laboratory 2
+N 67 34.029 E 030 27.740,SRNTGT016 -E: Fuel for power
+N 67 34.060 E 030 27.963,SRNTGT016 -F: Test facility
+N 67 34.003 E 030 27.749,SRNTGT016 -G: Chemical storage
+N 67 59.858 E 035 02.102,SRNTGT017 - Lovozero Laboratory
+N 67 59.864 E 035 01.886,SRNTGT017 -A: Underground Uranian Enrichment program
+N 67 59.860 E 035 02.421,SRNTGT017 -B: External power to Uranian Enrichment program
+N 69 32.631 E 031 11.755,SRNTGT018 - Petchenga Research Facility
+N 69 32.633 E 031 11.778,SRNTGT018 -A: Main research facility
+N 69 32.655 E 031 11.697,SRNTGT018 -B: Testing hall
+N 69 32.663 E 031 11.795,SRNTGT018 -C: Power to Research facility
+N 69 32.646 E 031 11.908,SRNTGT018 -D: Secondary research facility
+N 69 32.637 E 031 11.925,SRNTGT018 -E: Secondary research facility
+N 69 32.615 E 031 11.752,SRNTGT018 -F: Chemicals needed for research
+N 69 32.603 E 031 11.714,SRNTGT018 -G: Fuel for power
+N 68 07.981 E 033 13.530,SRNTGT019 - Olenogersk Research Facility
+N 68 07.987 E 033 13.430,SRNTGT019 -A: Main laboratory
+N 68 07.992 E 033 13.503,SRNTGT019 -B: Testing hall
+N 68 07.982 E 033 13.503,SRNTGT019 -C:Testing hall
+N 68 07.971 E 033 13.503,SRNTGT019 -D: Testing hall
+N 68 07.969 E 033 13.573,SRNTGT019 -E: Testing hall
+N 68 07.980 E 033 13.573,SRNTGT019 -F: Testing hall
+N 68 07.990 E 033 13.573,SRNTGT019 -G: Testing hall
+N 68 09.514 E 033 12.081,SRNTGT020 - Olenogorsk Ammunition Factory
+N 68 09.490 E 033 12.088,SRNTGT020 -A: Bomb production facility
+N 68 09.534 E 033 12.029,SRNTGT020 -B: Missile production facility
+N 68 09.521 E 033 12.106,SRNTGT020 -C: Chemicals for bomb production
+N 68 09.507 E 033 12.017,SRNTGT020 -D: Chemicals for missile production
+N 68 09.548 E 033 12.112,SRNTGT020 -E: Power to production facilities
+N 67 34.534 E 033 26.153,SRNTGT021 - Apatity Chemical Weapon production facility
+N 67 34.527 E 033 26.173,SRNTGT021 -A: Output Chemicals for chemical weapon program
+N 67 34.524 E 033 26.105,SRNTGT021 -B: Raw chemicals
+N 67 34.551 E 033 26.109,SRNTGT021 -C: Output chemicals for ammunition production
+N 67 34.519 E 033 26.247,SRNTGT021 -D: Processing plant
+N 67 34.509 E 033 26.226,SRNTGT021 -E: Processing plant
+N 68 04.492 E 039 27.612,SRNTGT022 - Ostrovnoy Navy Station
+N 68 03.689 E 039 27.366,SRNTGT023 - Ostrovnoy Naval HQ Building
+N 68 03.241 E 039 30.917,SRNTGT024 - Ostrovnoy Munitions Factory
+N 67 32.941 E 033 42.895,SRNTGT028 - Apatity Powerplant 1
+N 67 32.927 E 033 42.894,SRNTGT028 -A: Fuel for powerplant
+N 67 32.915 E 033 42.818,SRNTGT028 -B: Fuel for powerplant
+N 67 32.793 E 033 43.881,SRNTGT029 - Apatity Powerplant 2
+N 67 32.781 E 033 43.875,SRNTGT029 -A: Fuel for powerplant
+N 67 32.768 E 033 43.799,SRNTGT029 -B: Fuel for powerplant
+N 68 06.476 E 033 55.808,SRNTGT030 - Olenogorsk West Air Defense Academy
+N 68 06.381 E 033 55.909,SRNTGT030 -A: School building 1
+N 68 06.546 E 033 55.649,SRNTGT030 -B: School building 2
+N 67 22.259 E 032 33.487,SRNTGT045 -  Poliarnie Zori Power Maintenance Depot
+N 67 22.748 E 032 31.465,SRNTGT047 - Poliarnie Zori Railway Bridge
+N 69 56.539 E 031 57.680,SRNTGT048 - VaydaGuba Early Warning Station
+N 68 55.744 E 033 02.044,SRNTGT049 - Murmansk Oil&Fuel Terminal
+N 68 55.982 E 033 03.302,SRNTGT050 - Murmansk Oil&Fuel Storage
+N 69 04.228 E 033 23.583,SRNTGT051 - Notia Naval Academy
+N 68 54.409 E 033 02.466,SRNTGT052 - Novyy Most Bridge
+N 68 49.292 E 032 49.080,SRNTGT053 - GES-13  Hydroelectric Dam
+N 68 49.268 E 032 47.309,SRNTGT054 - Murmashi Railway Bridge
+N 68 36.479 E 031 45.760,SRNTGT055 - GES-12  Hydroelectric Dam
+N 67 36.388 E 033 03.118,SRNTGT056 - Oz Imandra Bridge
+N 67 37.426 E 032 42.679,SRNTGT058  -R-21 Highway Bridge
+N 67 55.125 E 032 49.729,SRNTGT059 - Nickel Production Complex
+N 69 56.224 E 031 58.112,SRNTGT060 - Vaydaguba Radio Mast
+N 69 26.036 E 030 52.882,SRNTGT061 - Notian Army 2nd Corps HQ
+N 68 49.194 E 032 49.644,SRNTGT068 - Notian Army 1st Corps HQ
+N 67 55.909 E 032 57.467,SRNTGT069 - Notian Army 3rd Corps HQ
+N 68 00.209 E 035 01.059,SRNTGT070  -Notian 4th Corps HQ
+N 67 34.210 E 033 22.027,SRNTGT071 - Apatite Veichle Factory
+N 67 34.224 E 033 21.999,SRNTGT071 -B: Power for production hall
+N 67 34.237 E 033 21.986,SRNTGT071 -C: Backup power
+N 67 34.215 E 033 21.934,SRNTGT071 -D: Fuel
+N 67 34.982 E 033 23.048,SRNTGT072 - Apatite SAM Factory
+N 67 34.944 E 033 22.964,SRNTGT072 -A: Production facility
+N 67 34.924 E 033 22.955,SRNTGT072 -B: Production facility
+N 67 34.964 E 033 23.102,SRNTGT072 -C: Power to production facility
+N 67 34.963 E 033 23.136,SRNTGT072 -D: Backup power
+N 67 34.991 E 033 23.115,SRNTGT072 -E: Fuel 
+N 67 34.851 E 033 23.314,SRNTGT073  - Apatite Radar Factory
+N 67 34.854 E 033 23.303,SRNTGT073  -A: Production facility
+N 67 34.886 E 033 23.302,SRNTGT073  -B: Storage of finished products
+N 67 34.864 E 033 23.373,SRNTGT073  -C: Power to production facility
+N 67 34.823 E 033 23.407,SRNTGT073  D: Research and Development
+N 67 34.814 E 033 23.395,SRNTGT073  E: Testing building
+N 67 32.701 E 033 44.531,SRNTGT074 - Apatite West Vehicle Factory
+N 68 50.262 E 033 02.877,SRNTGT075 - Food Logistic Depot
+N 69 01.356 E 033 01.239,SRNTGT076 - Fish Factory
+N 69 00.453 E 033 00.593,SRNTGT077 - Shipyard
+N 68 08.822 E 033 13.924,SRNTGT078 - Military Clothing supplier
+N 67 27.925 E 032 28.471,SRNTGT079 - KOLA NUCLEAR PLANT
+N 68 08.328 E 033 18.661,SRNTGT080 - Railway Distribution Node
+N 68 54.738 E 033 05.727,SRNTGT081 -  National TV Studio
+N 69 05.047 E 033 13.034,SRNTGT082 - Shipyard Complex - Sukhoy Dok
+N 68 53.139 E 033 00.416,SRNTGT083 - BRIDGE
+N 69 00.166 E 033 07.305,SRNTGT084 - Main Metallurgy Plant
+N 69 00.138 E 033 07.303,SRNTGT084 -A: Main factory hall
+N 69 00.160 E 033 07.503,SRNTGT084 -B: Secondary factory hall
+N 69 00.231 E 033 07.156,SRNTGT084 -C: Gas for production
+N 69 00.275 E 033 07.025,SRNTGT084 -D: Gas for production
+N 69 00.269 E 033 06.977,SRNTGT084 -E: Fuel for powerplant
+N 69 00.251 E 033 07.050,SRNTGT084 -F; Fuel for powerplant
+N 69 00.202 E 033 07.183,SRNTGT084 -G: Workshop
+N 69 00.048 E 033 07.150,SRNTGT084 -H: Tertiary factory hall
+N 69 00.035 E 033 07.237,SRNTGT084 -I: Generators
+N 69 00.207 E 033 07.551,SRNTGT084 -J: Research and development building
+N 68 52.824 E 033 04.560,SRNTGT085 - Coal Powerplant 'Tets'
+N 68 52.826 E 033 04.497,SRNTGT085 -2
+N 68 52.825 E 033 04.574,SRNTGT085 -A: Fuel for powerplant
+N 68 52.808 E 033 04.497,SRNTGT085 -B: Fuel for powerplant
+N 68 52.778 E 033 04.612,SRNTGT085 -C: Generators
+N 68 52.851 E 033 04.661,SRNTGT085 -D: Gas for powerplant
+N 68 52.783 E 033 04.491,SRNTGT085 -E: Gas for powerplant
+N 69 18.046 E 033 31.303,SRNTGT086 - KOLA BAY
+N 68 48.771 E 032 41.473,SRNTGT087 - Tuloma Powerplant
+N 68 48.775 E 032 41.466,SRNTGT087 -A: Fuel for powerplant
+N 68 48.746 E 032 41.428,SRNTGT087 -B: Fuel for powerplant
+N 68 48.743 E 032 41.566,SRNTGT087 -C: Generator
+N 68 48.724 E 032 41.458,SRNTGT087 -D: Workshop
+N 68 48.763 E 032 41.400,SRNTGT087 -E: Gas for the powerplant
+N 68 48.816 E 032 41.504,SRNTGT087 -F: Gas for the powerplant
+N 69 26.054 E 030 54.537,SRNTGT088 - ARMY Fuel Storage
+N 69 26.066 E 030 54.601,SRNTGT088 -A: Fuel storage
+N 69 26.031 E 030 54.581,SRNTGT088 -B: Fuel storage
+N 69 26.076 E 030 54.504,SRNTGT088 -C: Fuel storage
+N 69 26.043 E 030 54.478,SRNTGT088 -D: Fuel storage
+N 68 04.771 E 034 07.524,SRNTGT089 - SCUD Facility
+N 68 04.790 E 034 07.373,SRNTGT089 A: Rocket propellant storage
+N 68 04.730 E 034 07.576,SRNTGT089 B: Headquarter
+N 68 04.778 E 034 07.248,SRNTGT089 C: Repair facility
+N 68 04.805 E 034 07.309,SRNTGT089 D: Storage Facility
+N 68 45.088 E 033 08.421,SRNTGT090 - ARMY Vehicle Repair Center
+N 68 45.089 E 033 08.466,SRNTGT090 -A: Repair facility
+N 68 45.146 E 033 08.386,SRNTGT090 -B: Repair facility
+N 68 45.162 E 033 08.391,SRNTGT090 -C: Repair facility
+N 68 45.116 E 033 08.282,SRNTGT090 -D: Workshop
+N 68 45.065 E 033 08.281,SRNTGT090 -E: Workshop
+N 68 45.037 E 033 08.329,SRNTGT090 -F: Workshop
+N 68 45.123 E 033 08.336,SRNTGT090 -G: Power (generators) for repair center
+N 68 45.091 E 033 08.334,SRNTGT090 -H: Workshop
+N 67 30.135 E 030 35.964,SRNTGT091 - Kovdor Ammunition Factory
+N 67 30.124 E 030 36.186,SRNTGT091 -A:
+N 67 30.107 E 030 35.736,SRNTGT091 -B:
+N 67 30.067 E 030 35.817,SRNTGT091 -C:
+N 67 30.081 E 030 35.747,SRNTGT091 -D:
+N 67 30.126 E 030 35.805,SRNTGT091 -E:
+N 67 30.122 E 030 35.946,SRNTGT091 -F:
+N 67 30.098 E 030 35.817,SRNTGT091 -G:
+N 67 57.677 E 032 52.026,SRNTGT092 - Monchegorsk Rocket Factory
+N 67 57.675 E 032 52.005,SRNTGT092 -A: Rocket production facility 1
+N 67 57.689 E 032 51.934,SRNTGT092 -B: Rocket production facility 2
+N 67 57.703 E 032 52.018,SRNTGT092 -C: Power to production facilities
+N 67 57.656 E 032 52.006,SRNTGT092 -D: Chemicals to production facility
+N 67 57.639 E 032 51.980,SRNTGT092 -E: Chemicals to production facility
+N 69 03.507 E 033 23.757,SRNTGT093 - Severomorsk Chemical Weapon Production Facility
+N 69 03.513 E 033 23.670,SRNTGT093 -A: Production Facility
+N 69 03.444 E 033 23.439,SRNTGT093 -B: Production Facility
+N 69 03.456 E 033 23.364,SRNTGT093 -C: Power to production facilities
+N 69 03.581 E 033 24.017,SRNTGT093 -D: Fuel for power production
+N 69 03.543 E 033 23.988,SRNTGT093 -E: Chemicals needed for production (input)
+N 69 03.503 E 033 23.711,SRNTGT093 -F: Chemicals needed for production (input)
+N 69 03.489 E 033 23.741,SRNTGT093 -G: Chemicals needed for production (input)
+N 69 03.436 E 033 23.488,SRNTGT093 -H: Chemicals needed for production (input)
+N 69 03.421 E 033 23.522,SRNTGT093 -I: Chemicals needed for production (input)
+N 69 03.474 E 033 23.669,SRNTGT093 -J: Chemical Weapon storage
+N 69 03.411 E 033 23.436,SRNTGT093 -K: Chemical Weapon storage
+N 69 03.421 E 033 23.376,SRNTGT093 -L:  storage
+N 69 03.564 E 033 24.063,SRNTGT093 -M: Storage
+N 69 03.509 E 033 23.850,SRNTGT093 -N: Research facility
+N 67 36.577 E 033 24.336,SRNTGT094 - Apatity Chemical Weapon Handling facility
+N 67 36.607 E 033 24.178,SRNTGT094 -A: Chemical Weapon handling facility
+N 67 36.577 E 033 24.141,SRNTGT094 -B: Chemical Weapon warhead storage
+N 67 36.574 E 033 24.214,SRNTGT094 -C: Chemicals (input)
+N 67 36.596 E 033 24.270,SRNTGT094 -D: Chemicals (input)
+N 67 36.533 E 033 24.505,SRNTGT094 -E: Researcher living quarters
+N 67 36.561 E 033 24.481,SRNTGT094 -F: Test and research building
+N 67 36.605 E 033 24.224,SRNTGT094 -G: Chemicals (input)
+N 67 36.689 E 033 24.752,SRNTGT095 - Apatity Rocket Fuel Factory
+N 67 36.636 E 033 24.953,SRNTGT095 -2
+N 67 36.667 E 033 24.896,SRNTGT095 -A:
+N 67 36.736 E 033 24.585,SRNTGT095 -A: Production facility
+N 67 36.627 E 033 24.859,SRNTGT095 -B: Production facility
+N 67 36.608 E 033 24.959,SRNTGT095 -C: Power to production facility
+N 67 36.649 E 033 24.881,SRNTGT095 -D: Rocket fuel (output)
+N 67 36.658 E 033 24.962,SRNTGT095 -E:  Rocket fuel (output)
+N 67 36.674 E 033 24.647,SRNTGT095 -F: Administration Building
+N 67 36.644 E 033 24.780,SRNTGT095 -G: Chemicals (input)
+N 67 36.701 E 033 24.559,SRNTGT095 -H: Chemicals (Input)
+N 67 36.718 E 033 24.581,SRNTGT095 -I: Chemicals (input)
+N 67 36.722 E 033 24.497,SRNTGT095 -J: Chemicals (input)
+N 69 04.519 E 033 21.138,SRNTGT096 - Severomorsk Fuel and Chemicals Depot
+N 69 04.708 E 033 21.270,SRNTGT096 -A: Rocket propellant for SCUDs
+N 69 04.556 E 033 21.025,SRNTGT096 -B: Chemical precursor for WMD production
+N 68 07.060 E 033 17.675,SRNTGT097 - Olenogorsk SAM factory
+N 68 07.079 E 033 17.768,SRNTGT097 A:Production line 1
+N 68 07.049 E 033 17.614,SRNTGT097 B:Production line 2
+N 68 07.052 E 033 17.566,SRNTGT097 C:Production line 3
+N 68 07.033 E 033 17.672,SRNTGT097 D: Power to all production lines
+N 68 07.029 E 033 17.755,SRNTGT097 E:Administration
+N 67 22.758 E 032 29.668,SRNTGT098 - Poliarnie SAM factory
+N 67 22.759 E 032 29.602,SRNTGT098 -A: Productionline 1
+N 67 22.756 E 032 29.732,SRNTGT098 -B: Production line 2
+N 67 23.210 E 032 30.240,SRNTGT099 - A: Production hall 1
+N 67 23.210 E 032 30.370,SRNTGT099 - Poliarnie Ammuniction Factory
+N 67 23.181 E 032 30.344,SRNTGT099 -B: Production hall 2
+N 67 23.238 E 032 30.290,SRNTGT099 -C: Power to production halls
+N 67 23.182 E 032 30.264,SRNTGT099 -D: Chemicals for production
+N 67 23.210 E 032 30.323,SRNTGT099 -E: Chemicals for production
+N 67 23.163 E 032 30.451,SRNTGT099 -F: Admin building
+N 67 23.250 E 032 30.380,SRNTGT099 -G: Support to production
+N 67 23.247 E 032 30.428,SRNTGT099 -H: Support to production
+N 69 03.436 E 033 22.779,SRNTGT100 - A: Bomb factory
+N 69 03.466 E 033 22.978,SRNTGT100 -B: Rocket factory
+N 69 03.433 E 033 22.866,SRNTGT100 -C: Artillery shell factory
+N 69 03.408 E 033 22.792,SRNTGT100 -D: Chemicals needed for production
+N 69 03.406 E 033 22.878,SRNTGT100 -E: Chemicals needed for production
+N 69 03.368 E 033 23.145,SRNTGT100 -F:Chemicals needed for production
+N 69 03.462 E 033 22.847,SRNTGT100 -G: Power for factories
+N 69 03.428 E 033 22.990,SRNTGT100: Severomorsk Ammunition Factory
+N 69 03.635 E 033 26.762,SRNTGT101 -A: Radar production facility
+N 69 03.686 E 033 26.477,SRNTGT101 -B: Radar production facility
+N 69 03.715 E 033 26.366,SRNTGT101 -C: C2 production facility
+N 69 03.613 E 033 26.623,SRNTGT101 -D: SA-10 launcher production facility
+N 69 03.582 E 033 26.260,SRNTGT101 -E: SA-10 launcher production facility
+N 69 03.585 E 033 26.202,SRNTGT101 -F: SA-10 launcher production facility
+N 69 03.647 E 033 26.147,SRNTGT101 -G: Power for all production facilities
+N 69 03.716 E 033 26.460,SRNTGT101 -H: Chemicals for production
+N 69 03.687 E 033 26.393,SRNTGT101 -I: Chemicals for production
+N 69 03.590 E 033 26.474,SRNTGT101 -J: Admin and HQ building
+N 69 03.636 E 033 26.451,SRNTGT101: Severomorsk SAM Factory
+N 68 08.670 E 033 26.053,SRNTGT102 - Olenogorsk West Missile Factory
+N 68 08.634 E 033 26.026,SRNTGT102 -A: Missile production facility
+N 68 08.671 E 033 25.940,SRNTGT102 -B: Missile production facility
+N 68 08.693 E 033 26.007,SRNTGT102 -C: Power for production facility
+N 68 08.642 E 033 25.945,SRNTGT102 -D: Chemicals for missile production
+N 68 08.665 E 033 26.024,SRNTGT102 -E: Chemicals for missile production
+N 68 48.603 E 032 46.609,SRNTGT103 - Murmashi Bomb Factory
+N 68 48.589 E 032 46.628,SRNTGT103 -A: Bomb production facility
+N 68 48.601 E 032 46.539,SRNTGT103 -B: Bomb production facility
+N 68 48.621 E 032 46.591,SRNTGT103 -C: Chemicals for bombs
+N 68 48.601 E 032 46.687,SRNTGT103 -D: Chemicals for bombs
+N 68 58.003 E 033 04.102,SRNTGT104 - War Cabinet Building
+N 68 57.984 E 033 04.037,SRNTGT105 - HQ Supreme High Command
+N 68 58.149 E 033 04.891,SRNTGT106 - General Staff Building
+N 68 02.184 E 034 40.670,SRNTGT107 - Notian SAM test and training site
+N 68 01.259 E 034 59.877,SRNTGT025 - Lovozero Air Defense Test and Training Range
+N 68 00.439 E 035 00.646,SRNTGT026 - Lovozero Air Defense Academy
+N 68 07.366 E 033 18.319,SRNTGT057 - Olenegorsk Vehicle Factory
+N 67 29.532 E 034 18.662,SRNTGT027 - Koashva Research Facility
+N 67 36.409 E 033 25.099,SRNTGT046 - Apatite Steel Production Facility
+N 67 22.531 E 032 29.854,SRNTGT044 - Directorate of National Security and Intelligence secret facility
+N 67 34.193 E 033 22.115,SRNTGT071 -A: Production facility
+N 69 01.448 E 033 26.949,SRNTGT001 -D: Ammunition storage
+N 69 02.186 E 033 25.770,SRNTGT001 -E: Fuel Storage
+N 69 02.331 E 033 25.541,SRNTGT001 -F: Fuel Storage
+N 69 02.290 E 033 24.548,SRNTGT001 -C: Runway WEST
+N 69 01.844 E 033 25.353,SRNTGT001 -B: Runway Center
+N 69 01.560 E 033 25.867,SRNTGT001 -A: Runway EAST
+N 68 46.997 E 032 45.686,SRNTGT003 -1
+N 68 47.037 E 032 45.615,SRNTGT003 -2
+N 68 47.338 E 032 45.464,SRNTGT003 -A: Ammo storage
+N 68 47.345 E 032 45.222,SRNTGT003 -B: Fuel storage
+N 68 47.629 E 032 44.868,SRNTGT003 -C: Ammo storage
+N 68 47.635 E 032 44.805,SRNTGT003 -D: Ammo storage
+N 68 47.723 E 032 44.807,SRNTGT003 -G: Fuel storage
+N 68 47.699 E 032 44.736,SRNTGT003 -E: Fuel storage
+N 68 47.712 E 032 44.714,SRNTGT003 -F: Fuel storage
+N 68 47.193 E 032 44.537,SRNTGT003 -J: Runwat WEST
+N 68 46.973 E 032 44.950,SRNTGT003 -I: Runway CENTER
+N 68 46.677 E 032 45.492,SRNTGT003 -H: Runway EAST
+N 68 08.747 E 033 25.814,SRNTGT004 -D: Fuel storage
+N 68 08.722 E 033 25.786,SRNTGT004 -E: Fuel storage
+N 68 08.827 E 033 25.736,SRNTGT004 -G: Fuel storage
+N 68 08.836 E 033 25.683,SRNTGT004 -F: Fuel storage
+N 68 08.859 E 033 25.711,SRNTGT004 -I: Fuel storage
+N 68 08.851 E 033 25.764,SRNTGT004 -H: Fuel storage
+N 68 08.767 E 033 25.687,SRNTGT004 -J: Ammo storage
+N 68 08.762 E 033 25.748,SRNTGT004 -K: Ammo storage
+N 68 08.742 E 033 25.726,SRNTGT004 -L: Ammo storage
+N 68 08.724 E 033 25.706,SRNTGT004 -M: Ammo storage
+N 68 08.740 E 033 25.584,SRNTGT004 -N: Ammo storage
+N 68 08.566 E 033 27.345,SRNTGT004 -C: Runway SOUTH
+N 68 09.596 E 033 28.321,SRNTGT004 -A: Runway NORTH
+N 68 08.967 E 033 27.736,SRNTGT004 -B: Runway CENTER
+N 67 59.049 E 033 00.714,SRNTGT005 -C: Runway SOUTH
+N 67 59.703 E 033 01.615,SRNTGT005 -A: Runway NORTH
+N 67 59.436 E 033 01.235,SRNTGT005 -B: Runway CENTER
+N 67 59.808 E 033 01.021,SRNTGT005 -L: Ammo storage
+N 67 59.395 E 033 00.381,SRNTGT005 -M: Fuel storage
+N 67 59.119 E 032 59.877,SRNTGT005 -K: Ammo storage
+N 67 58.853 E 032 59.919,SRNTGT005 -N Fuel storage
+N 67 58.752 E 033 01.542,SRNTGT005 -G: Ammo storage
+N 67 58.788 E 033 01.564,SRNTGT005 -F: Ammo storage
+N 67 58.778 E 033 01.679,SRNTGT005 -D: Ammo storage
+N 67 58.918 E 032 59.365,SRNTGT005 -P: Fuel storage
+N 67 58.989 E 032 59.412,SRNTGT005 -O: Fuel storage
+N 67 58.946 E 032 59.207,SRNTGT005 -Q: Fuel storage
+N 67 58.965 E 032 59.218,SRNTGT005 -R: Fuel storage
+N 67 58.984 E 032 59.229,SRNTGT005 -S: Fuel storage
+N 67 59.002 E 032 59.241,SRNTGT005 -T: Fuel storage
+N 67 59.020 E 032 59.252,SRNTGT005 -U: Fuel storage
+N 67 59.039 E 032 59.266,SRNTGT005 -V: Fuel storage
+N 67 59.025 E 032 59.606,SRNTGT005 -J: Ammo storage
+N 67 58.363 E 032 59.239,SRNTGT005 -I: Ammo storage
+N 67 58.355 E 032 59.204,SRNTGT005 -H: Ammo storage
+N 67 58.767 E 033 01.599,SRNTGT005 -E: Ammo storage
+N 68 52.277 E 033 43.121,SRNTGT002 -A: Runway NORTH
+N 68 51.908 E 033 43.076,SRNTGT002 -B: Runway Center
+N 68 51.610 E 033 43.031,SRNTGT002 -C: Runway SOUTH
+N 68 51.410 E 033 43.766,SRNTGT002 -E:  Fuel storage
+N 68 51.404 E 033 43.857,SRNTGT002 -D: Fuel storage
+N 68 51.352 E 033 43.856,SRNTGT002 -F:  Fuel storage
+N 68 51.339 E 033 43.847,SRNTGT002 -G:  Fuel storage
+N 68 51.317 E 033 43.790,SRNTGT002 -H:  Fuel storage
+N 68 51.483 E 033 40.635,SRNTGT002 -I: Ammo storage
+N 68 51.446 E 033 40.337,SRNTGT002 -M: Ammo storage
+N 68 51.483 E 033 40.346,SRNTGT002 -N:Ammo storage
+N 68 51.412 E 033 40.367,SRNTGT002 -L: Ammo storage
+N 68 51.439 E 033 40.629,SRNTGT002 -K: Ammo storage
+N 68 51.454 E 033 40.695,SRNTGT002 -J: Ammo storage
+N 69 12.969 E 033 21.981,SRNTGT008 - Olenya Guba dock
+N 69 12.169 E 033 27.490,SRNTGT009 - Polyarny Naval Base
+N 68 58.678 E 033 02.971,SRNTGT010 -A: Container crane
+N 68 59.386 E 033 03.321,SRNTGT010 -B: Container Crane
+N 68 58.633 E 033 04.076,SRNTGT010 -C: Railwayconnection
+N 68 59.043 E 033 04.257,SRNTGT010 -E: Railway connection
+N 68 58.697 E 033 04.297,SRNTGT010 -D: Railway connection
+N 68 03.242 E 039 30.892,SRNTGT024 -A: Production facility
+N 68 03.258 E 039 30.815,SRNTGT024 -B: Production facility
+N 68 03.272 E 039 30.901,SRNTGT024 -C: Power for production facilities (generators)
+N 68 03.179 E 039 30.947,SRNTGT024 -D: Research and development building
+N 68 03.224 E 039 30.886,SRNTGT024 -E: Chemicals for production
+N 68 03.209 E 039 30.859,SRNTGT024 -F: Chemicals for production
+N 68 00.468 E 035 00.682,SRNTGT026 -1
+N 68 00.450 E 035 00.738,SRNTGT026 -2
+N 68 00.421 E 035 00.606,SRNTGT026 -3
+N 68 00.425 E 035 00.562,SRNTGT026 -4
+N 68 01.343 E 035 00.611,SRNTGT025 -A: Command Center bunker
+N 67 29.547 E 034 18.820,SRNTGT027 -A: Entrance to underground facility
+N 67 29.555 E 034 18.513,SRNTGT027 -B: Entrance to underground facility
+N 67 22.560 E 032 30.011,SRNTGT044 -B: Communications building
+N 67 22.520 E 032 29.714,SRNTGT044 -A: Main office building
+N 67 22.542 E 032 29.793,SRNTGT044 -C: Prison
+N 67 22.548 E 032 29.833,SRNTGT044 -H: Living Quarters
+N 67 22.553 E 032 29.872,SRNTGT044 -F: Living quarters
+N 67 22.530 E 032 29.875,SRNTGT044 -E: Living quarters
+N 67 22.517 E 032 29.805,SRNTGT044 -D: Storage facility
+N 67 22.230 E 032 33.475,SRNTGT045 -B: Maintenance facility 1
+N 67 22.274 E 032 33.523,SRNTGT045 -A: Maintenance facility 1
+N 67 36.411 E 033 25.020,SRNTGT046 -E: Power for production (generators)
+N 67 36.408 E 033 25.095,SRNTGT046 -A: Main production facility
+N 67 36.380 E 033 25.059,SRNTGT046 -B: Secondary production facility 
+N 67 36.408 E 033 25.144,SRNTGT046 -F: Oxygen for steel production
+N 67 36.453 E 033 25.031,SRNTGT046 -C: Tertiary production facility
+N 67 36.460 E 033 25.051,SRNTGT046 -D: Tertiary production facility
+N 67 36.399 E 033 25.190,SRNTGT046 -G: Oxygen for production
+N 69 56.499 E 031 57.518,SRNTGT048 -F: Radar
+N 69 56.555 E 031 57.513,SRNTGT048 -E: Radar
+N 69 56.582 E 031 57.587,SRNTGT048 -D: Radar
+N 69 56.616 E 031 57.653,SRNTGT048 -C: Radar
+N 69 56.518 E 031 57.786,SRNTGT048 -B: Radio Tower
+N 69 56.510 E 031 57.723,SRNTGT048 -A: Command Post (basement)
+N 68 55.616 E 033 02.508,SRNTGT049 -A: Oil storage
+N 68 55.647 E 033 02.659,SRNTGT049 -E: Oil storage
+N 68 55.670 E 033 02.612,SRNTGT049 -D: Oil storage
+N 68 55.644 E 033 02.444,SRNTGT049 -C: Oil storage
+N 68 55.632 E 033 02.402,SRNTGT049 -B: Oil storage
+N 68 55.713 E 033 02.320,SRNTGT049 -F: Fuel storage
+N 68 55.721 E 033 02.201,SRNTGT049 -I: Fuel storage
+N 68 55.732 E 033 02.232,SRNTGT049 -H: Fuel storage
+N 68 55.742 E 033 02.261,SRNTGT049 -G: Fuel storage
+N 68 55.756 E 033 02.203,SRNTGT049 -J: Fuel storage
+N 68 55.740 E 033 02.165,SRNTGT049 -K: Fuel storage
+N 68 55.757 E 033 02.127,SRNTGT049 -L: Fuel storage
+N 68 55.774 E 033 02.090,SRNTGT049 -N: Fuel storage
+N 68 55.774 E 033 02.156,SRNTGT049 -M: Fuel storage
+N 68 55.943 E 033 03.287,SRNTGT050 -A: Oil storage
+N 68 55.923 E 033 03.318,SRNTGT050 -B: Oil storage
+N 68 55.897 E 033 03.366,SRNTGT050 -C: Oil storage
+N 68 55.875 E 033 03.397,SRNTGT050 -D. Oil storage
+N 68 55.948 E 033 03.395,SRNTGT050 -M: Fuel storage
+N 68 55.962 E 033 03.371,SRNTGT050 -L: Fuel storage
+N 68 55.996 E 033 03.335,SRNTGT050 -K: Fuel storage
+N 68 56.025 E 033 03.291,SRNTGT050 -J: Fuel storage
+N 68 56.044 E 033 03.253,SRNTGT050 -I: Fuel storage
+N 68 56.043 E 033 03.124,SRNTGT050 -H: Oil storage
+N 68 56.021 E 033 03.159,SRNTGT050 -G. Oil storage
+N 68 55.995 E 033 03.203,SRNTGT050 -F. Oil storage
+N 68 55.973 E 033 03.239,SRNTGT050 -E: Oil storage
+N 69 04.246 E 033 23.589,SRNTGT051 -A: School Building 1
+N 69 04.250 E 033 23.540,SRNTGT051 -B: School building 2
+N 69 04.205 E 033 23.548,SRNTGT051 -C: Communications Building
+N 69 04.201 E 033 23.636,SRNTGT051 D: Research department
+N 68 07.415 E 033 18.367,SRNTGT057 -A: Production facility
+N 68 07.340 E 033 18.347,SRNTGT057 -B: Production facility
+N 68 07.321 E 033 18.335,SRNTGT057 -C: Production facility
+N 68 07.306 E 033 18.216,SRNTGT057 -D: Production facility
+N 68 07.276 E 033 18.266,SRNTGT057 -E: Production facility
+N 68 07.352 E 033 18.233,SRNTGT057 -F: Power to production facilities (generators)
+N 68 07.454 E 033 18.376,SRNTGT057 -G: Power to production facilities (generators)
+N 68 07.451 E 033 18.411,SRNTGT057 -H: Power to production facilities (generators)
+N 67 55.164 E 032 49.748,SRNTGT059 -B: PRoduction facility
+N 67 55.124 E 032 49.825,SRNTGT059 -A: Production facility
+N 67 55.134 E 032 49.743,SRNTGT059 -C: Necessary chemicals for production
+N 67 55.105 E 032 49.752,SRNTGT059 -D: Power generator building
+N 67 55.155 E 032 49.825,SRNTGT059 -E: Fuel for generators
+N 69 26.032 E 030 52.917,SRNTGT061 -A: Leadership building
+N 69 26.037 E 030 52.866,SRNTGT061 -B: Current operations
+N 68 49.204 E 032 49.668,SRNTGT068 -A: Leadership building
+N 68 49.181 E 032 49.623,SRNTGT068 -B: Current operations
+N 67 55.908 E 032 57.505,SRNTGT069 -A: Leadership building
+N 67 55.910 E 032 57.430,SRNTGT069 -B: Current operations building
+N 68 00.201 E 035 00.884,SRNTGT070  -A: Leadership building
+N 68 00.210 E 035 01.250,SRNTGT070  -B: Current operations building
+N 68 00.238 E 035 01.007,SRNTGT070  -C: Radio Tower
+N 67 32.743 E 033 44.586,SRNTGT074 -C: Production facility
+N 67 32.704 E 033 44.667,SRNTGT074 -B: production facility
+N 67 32.702 E 033 44.372,SRNTGT074 -D: production facility
+N 67 32.691 E 033 44.456,SRNTGT074 -A: production facility
+N 67 32.722 E 033 44.446,SRNTGT074 -E: Power to production facilities (generators)
+N 67 32.674 E 033 44.455,SRNTGT074 -F: Fuel to generators
+N 67 32.655 E 033 44.438,SRNTGT074 -G: Fuel to generators
+N 69 01.335 E 033 01.334,SRNTGT076 -B: Production Hall
+N 69 01.383 E 033 01.367,SRNTGT076 -E: Power to production halls (generators)
+N 69 01.367 E 033 01.169,SRNTGT076 -D: Production hall
+N 69 01.387 E 033 01.247,SRNTGT076 -C: Production hall
+N 69 01.394 E 033 01.152,SRNTGT076 -G: Chemicals for food production
+N 69 01.339 E 033 01.288,SRNTGT076 -A: Production fall
+N 69 01.411 E 033 01.251,SRNTGT076 -F: Fuel to generators
+N 68 54.751 E 033 05.735,SRNTGT081 -TV channel 2
+N 68 54.722 E 033 05.722,SRNTGT081 -A: TV channel 1
+N 68 08.821 E 033 18.647,SRNTGT080 -A: Railway junction
+N 68 07.823 E 033 18.751,SRNTGT080 -B: Railway Junction
+N 68 08.834 E 033 13.925,SRNTGT078 -A: Factory 1
+N 68 08.814 E 033 13.911,SRNTGT078 -B: Factory 2
+N 68 09.709 E 033 26.228,SRNTGT110 - SCC South
+N 69 02.910 E 033 24.594,SRNTGT109 - SCC North
+N 68 55.713 E 033 10.093,SRNTGT108 - ADCC
+N 69 21.886 E 034 13.458,SRNTGT111  - AWACS Connection Node
+N 69 04.364 E 033 24.593,SRNTGT112 - 40th Composite Maritime Aviation Division HQ
+N 69 05.012 E 033 28.750,SRNTGT113 - 60th Air Division HQ
+N 69 03.978 E 033 25.054,SRNTGT114 - 70th Air Division HQ
+N 68 48.916 E 032 49.370,SRNTGT115 - 80th Air Support Division HQ
