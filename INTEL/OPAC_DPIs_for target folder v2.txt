@@ -223,9 +223,8 @@ N 69 04.556 E 033 21.025,SRNTGT096 -B: Chemical precursor for WMD production
 N 68 07.060 E 033 17.675,SRNTGT097 - Olenogorsk SAM factory
 N 68 07.079 E 033 17.768,SRNTGT097 A:Production line 1
 N 68 07.049 E 033 17.614,SRNTGT097 B:Production line 2
-N 68 07.052 E 033 17.566,SRNTGT097 C:Production line 3
-N 68 07.033 E 033 17.672,SRNTGT097 D: Power to all production lines
-N 68 07.029 E 033 17.755,SRNTGT097 E:Administration
+N 68 07.033 E 033 17.672,SRNTGT097 C:Power to all production lines
+N 68 07.029 E 033 17.755,SRNTGT097 D:Administration
 N 67 22.758 E 032 29.668,SRNTGT098 - Poliarnie SAM factory
 N 67 22.759 E 032 29.602,SRNTGT098 -A: Productionline 1
 N 67 22.756 E 032 29.732,SRNTGT098 -B: Production line 2
